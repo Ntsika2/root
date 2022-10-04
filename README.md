@@ -1,0 +1,2 @@
+# root
+new_school
